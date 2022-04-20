@@ -1,1 +1,1 @@
- https://zulyazqall.github.io/
+[GitHub](http://github.com/zulyazqall)
